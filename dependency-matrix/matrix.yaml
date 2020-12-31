@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: skyglass-jenkins
+  repo: spring-boot-http-gradle
+  url: https://github.com/skyglass-jenkins/spring-boot-http-gradle.git
+  version: ""
+  versionURL: ""
