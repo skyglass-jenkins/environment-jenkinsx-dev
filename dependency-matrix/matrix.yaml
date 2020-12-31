@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: skyglass-jenkins
+  repo: express-hello
+  url: https://github.com/skyglass-jenkins/express-hello.git
+  version: ""
+  versionURL: ""
