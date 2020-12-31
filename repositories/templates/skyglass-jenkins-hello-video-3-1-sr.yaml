@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: skyglass-jenkins
+    provider: github
+    repository: hello-video-3-1
+  name: skyglass-jenkins-hello-video-3-1
+spec:
+  description: Imported application for skyglass-jenkins/hello-video-3-1
+  httpCloneURL: https://github.com/skyglass-jenkins/hello-video-3-1.git
+  org: skyglass-jenkins
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: hello-video-3-1
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/skyglass-jenkins/hello-video-3-1.git
